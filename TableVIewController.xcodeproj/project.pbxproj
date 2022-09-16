@@ -15,6 +15,7 @@
 		D36F9AA628D405C60073DCA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D36F9AA428D405C60073DCA5 /* LaunchScreen.storyboard */; };
 		D36F9AB128D40C630073DCA5 /* FilmesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36F9AB028D40C630073DCA5 /* FilmesTableViewController.swift */; };
 		D36F9AB328D40DA10073DCA5 /* Filmes.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36F9AB228D40DA10073DCA5 /* Filmes.swift */; };
+		D36F9AB628D51F750073DCA5 /* FilmesCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36F9AB528D51F750073DCA5 /* FilmesCollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		D36F9AA728D405C60073DCA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D36F9AB028D40C630073DCA5 /* FilmesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmesTableViewController.swift; sourceTree = "<group>"; };
 		D36F9AB228D40DA10073DCA5 /* Filmes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Filmes.swift; sourceTree = "<group>"; };
+		D36F9AB528D51F750073DCA5 /* FilmesCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmesCollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				D36F9A9928D405C50073DCA5 /* AppDelegate.swift */,
 				D36F9A9B28D405C50073DCA5 /* SceneDelegate.swift */,
 				D36F9AB028D40C630073DCA5 /* FilmesTableViewController.swift */,
+				D36F9AB528D51F750073DCA5 /* FilmesCollectionViewController.swift */,
 			);
 			path = controller;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D36F9AB628D51F750073DCA5 /* FilmesCollectionViewController.swift in Sources */,
 				D36F9A9E28D405C50073DCA5 /* ViewController.swift in Sources */,
 				D36F9AB128D40C630073DCA5 /* FilmesTableViewController.swift in Sources */,
 				D36F9A9A28D405C50073DCA5 /* AppDelegate.swift in Sources */,
